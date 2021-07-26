@@ -1,0 +1,22 @@
+What will be done
+
+Sales App
+	-
+
+Power Apps
+	-create orders on the app
+	-confirm payment
+	-see delivery list waiting 
+	-enter new customer information
+
+Portal
+	-get customer feedback
+	-customer order request 
+	-suggetions from customer
+
+Flows
+	-get an alert when order is made from customer on portal
+	-get an alert every 15 miuntes when delivery date is past and divelry is not marked as complete 
+	-send thank you email to Cx when devilery is complete.
+	-send birthday messages to customer on their birthday using email
+	
